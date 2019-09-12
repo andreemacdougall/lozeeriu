@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theiroofei.martenveldthuis.com/sitemap.xml
